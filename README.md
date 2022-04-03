@@ -5,7 +5,7 @@ It has never been achieved due to the COVID-19 issue.
 
 The goal of this project was to replicate the mechanical tide prediction machine created by Lord Kelvin in 1875 and analyse its reliability by comparing it to a numerical prediction model I coded in Python.
 
-The code theoretically works but I didn't created a documentation since the project has been interrupted by COVID-19. The prediction model uses historical data of water level at the port of Seattle, provided by the Shom.
+The code theoretically works but I didn't created a documentation since the project has been interrupted by COVID-19. The prediction model uses historical datas of water level at the port of Seattle, provided by the Shom.
 
 # References
 
