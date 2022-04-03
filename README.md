@@ -7,6 +7,8 @@ The goal of this project was to replicate the mechanical tide prediction machine
 
 The code theoretically works but I didn't created a documentation since the project has been interrupted by COVID-19. The prediction model uses historical data of water level at the port of Seattle, provided by the Shom.
 
+# References
+
 [1] Le shom, Traitement, http://refmar.shom.fr/documents/10227/789220/traitement.pdf
 
 [1 bis] Le Shom, Généralité, http://refmar.shom.fr/documents/10227/789220/generalite.pdf
